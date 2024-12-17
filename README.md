@@ -7,10 +7,10 @@ A template you can reference when creating new data analytics projects.
 
 ### To do list
 
-- [ ] task 1
-- [x] task 2
-- [ ] task 3
-- [ ] task 4
+- [x] Scrape Spotify using an API
+- [x] Download dataset from Kaggle
+- [x] Create notebooks for scraping, cleaning, and visualizations
+- [x] Complete report
 
 ### Change log
 
