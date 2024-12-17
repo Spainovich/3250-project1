@@ -2,16 +2,8 @@
 
 ## notebooks
 
-Python Jupyter notebooks (.ipynb). Files should be prefixed with the order they should run.
+Python Jupyter notebooks (.ipynb) should be run in this order
 
-- 00_file1.ipynb
-- 01_file1.ipynb
-- 02_file1.ipynb
-
-## scripts
-
-Python scripts (.py). Files should be prefixed with the order they should run.
-
-- 00_file1.py
-- 01_file1.py
-- 02_file1.py
+- 00_DW_spotify_scraping.ipynb
+- 01_DW_project_cleaning.ipynb
+- 02_DW_visualizations.ipynb
