@@ -1,7 +1,4 @@
-# data-analytics-template
-
-November 14, 2024
-A template you can reference when creating new data analytics projects.
+# 3250 Project Github
 
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -14,5 +11,9 @@ A template you can reference when creating new data analytics projects.
 
 ### Change log
 
-- 2024-11-15 SAP added new items
-- 2024-11-15 SAP deleted old items
+- 2024-10-30 RF scraped data from Spotify
+- 2024-11-10 SP made changes to report
+- 2024-11-15 SP cleaned Kaggle dataset
+- 2024-11-15 SP made changes to report
+- 2024-12-05 RF added visualizations
+- 2024-12-15 SP deleted old items
